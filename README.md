@@ -1,7 +1,7 @@
 
 # Agri-bot
 
-![images](agribot4.jpg)
+![alt text](images/agribot4.jpg)
 The Agri-Bot is a robot designed to perform several agricultural operations like sowing seeds, spraying weedicides and detecting disease in crops. Its body is inspired by the space rovers so that it can cover any kind of uneven surfaces in the field and be lightweight at the same time. The robot was first designed in Solidworks and then built with some parts being 3-D printed and some made with aluminum. 
 
 ## INTRODUCTION
